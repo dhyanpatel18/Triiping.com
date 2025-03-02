@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --text: "Metal Mania";
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --text-size: 32px;
+
+  /* Colors */
+  --color-red: #ff0f00;
+  --color-white: #fff;
+  --color-gray: rgba(255, 255, 255, 0.36);
+
+  /* Gaps */
+  --gap-218xl: 237px;
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-2xs-7: 10.7px;
+}

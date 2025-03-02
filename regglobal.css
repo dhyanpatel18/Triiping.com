@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto-serif: "Roboto Serif";
+  --font-roboto: Roboto;
+  --text: "Metal Mania";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --text-size: 32px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #ff0f00;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+}

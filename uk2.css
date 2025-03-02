@@ -1,0 +1,470 @@
+.home,
+.trippingcom {
+  position: absolute;
+  text-align: left;
+}
+.trippingcom {
+  top: 49px;
+  left: 149px;
+  font-size: var(--text-size);
+  font-family: var(--text);
+  color: var(--color-red);
+}
+.home {
+  left: 965px;
+  width: 89px;
+  cursor: pointer;
+}
+.about,
+.blog,
+.home {
+  top: 62px;
+  color: var(--color-red);
+  display: inline-block;
+}
+.blog {
+  position: absolute;
+  left: 1080px;
+  text-align: left;
+  width: 60px;
+}
+.about {
+  left: 1170px;
+  width: 89px;
+}
+.about,
+.contact,
+.uttarakhand {
+  position: absolute;
+  text-align: left;
+}
+.contact {
+  top: 62px;
+  left: 1270px;
+  color: var(--color-red);
+  display: inline-block;
+  width: 95px;
+  height: 30px;
+}
+.uttarakhand {
+  top: 106px;
+  left: 695px;
+  font-size: 75px;
+  color: var(--color-gainsboro);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.backplace-icon {
+  position: absolute;
+  height: 3.33%;
+  width: 2.57%;
+  top: 3.03%;
+  right: 94.31%;
+  bottom: 93.64%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ind {
+  position: absolute;
+  top: 66px;
+  left: 1679px;
+  color: var(--color-red);
+  text-align: left;
+}
+.icon-keyboard-arrow-down,
+.icon-person {
+  position: absolute;
+  height: 0.92%;
+  width: 1.11%;
+  top: 4.98%;
+  right: 8.12%;
+  bottom: 94.09%;
+  left: 90.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon-person {
+  height: 3.91%;
+  width: 2.78%;
+  top: 3.03%;
+  right: 3.4%;
+  bottom: 93.07%;
+  left: 93.82%;
+}
+.desktop-37-child {
+  top: 376.22px;
+  left: 528px;
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 511px;
+  transform: rotate(-0.17deg);
+  transform-origin: 0 0;
+}
+.desktop-37-child,
+.desktop-37-item,
+.group-child,
+.group-item {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.desktop-37-item {
+  top: 372px;
+  left: 528px;
+  width: 401px;
+  height: 224px;
+  object-fit: cover;
+}
+.group-child,
+.group-item {
+  top: 0;
+  left: 5.54px;
+  width: 395.1px;
+}
+.group-child {
+  background-color: var(--color-gainsboro);
+  height: 511px;
+}
+.group-item {
+  height: 215.56px;
+  object-fit: cover;
+}
+.haridwar,
+.haridwar-lies-along {
+  position: absolute;
+  top: 243px;
+  left: 0;
+  display: inline-block;
+  width: 396.28px;
+  height: 48.15px;
+}
+.haridwar-lies-along {
+  top: 304px;
+  left: 11px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 393px;
+  height: 234px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 368px;
+  left: 982px;
+  width: 404px;
+  height: 538px;
+  font-size: var(--font-size-9xl);
+}
+.group-child1,
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 490.21px;
+}
+.group-child1,
+.rectangle-div {
+  height: 193.68px;
+}
+.group-child1 {
+  height: 511px;
+}
+.rectangle-group,
+.rectangle-icon {
+  position: absolute;
+  top: 8px;
+  left: 6px;
+  width: 401px;
+  height: 511px;
+}
+.rectangle-icon {
+  top: 0;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  height: 224px;
+  object-fit: cover;
+}
+.group-child3 {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 409px;
+  height: 30px;
+}
+.it-is-situated,
+.rishikesh {
+  position: absolute;
+  top: 247px;
+  left: 11px;
+  font-weight: 800;
+  display: inline-block;
+  width: 392px;
+  height: 71px;
+}
+.it-is-situated {
+  top: 295px;
+  left: 15px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 387px;
+  height: 171px;
+}
+.group-parent {
+  position: absolute;
+  top: 364px;
+  left: 52px;
+  width: 409px;
+  height: 519px;
+  font-size: var(--font-size-9xl);
+}
+.fascinating-history-and {
+  position: absolute;
+  top: 672px;
+  left: 532px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 400px;
+  height: 240px;
+}
+.dehradun {
+  position: absolute;
+  top: 614px;
+  left: 661px;
+  font-size: var(--font-size-9xl);
+  font-weight: 800;
+}
+.tourist-attractions {
+  position: absolute;
+  top: 257px;
+  left: 0;
+  font-size: 40px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-gainsboro);
+  width: 684px;
+  height: 42px;
+}
+.backplace-icon1 {
+  position: absolute;
+  height:60px;
+  
+  top: 1467px;
+  right: 4%;
+  bottom: 3.08%;
+  left: 91.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+  
+}
+.group-child4,
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 393.16px;
+  height: 482.65px;
+}
+.group-child5 {
+  height: 190.69px;
+}
+.group-child6,
+.group-child8,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  width: 393.16px;
+  height: 503.12px;
+}
+.group-child6 {
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+}
+.group-child8,
+.rectangle-container {
+  left: 5.88px;
+}
+.group-child8 {
+  top: 0.12px;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  height: 220.55px;
+  object-fit: cover;
+}
+.group-child9 {
+  position: absolute;
+  top: 223.5px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 29.54px;
+}
+.mussoorie,
+.mussoorie-also-known {
+  position: absolute;
+  top: 235.32px;
+  left: 10.78px;
+  font-weight: 800;
+  display: inline-block;
+  width: 384.33px;
+  height: 69.91px;
+}
+.mussoorie-also-known {
+  top: 282.58px;
+  left: 14.71px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 379.43px;
+  height: 168.36px;
+}
+.group-container {
+  position: absolute;
+  top: 959px;
+  left: 991px;
+  width: 401.16px;
+  height: 503.12px;
+  font-size: var(--font-size-9xl);
+}
+.group-child10,
+.group-child11 {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.group-child10 {
+  top: 1.2px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 511px;
+  transform: rotate(-0.17deg);
+  transform-origin: 0 0;
+}
+.group-child11 {
+  top: -0.879999999999999px;
+    left: 1px;
+    width: 398px;
+    height: 221px;
+    object-fit: cover;
+}
+.nainital,
+.nainital-is-commonly {
+  position: absolute;
+  top: 302.12px;
+  left: 5px;
+  font-weight: 500;
+  display: inline-block;
+  width: 398px;
+  height: 236px;
+}
+.nainital {
+  top: 244.12px;
+  left: 145px;
+  font-size: var(--font-size-9xl);
+  font-weight: 800;
+  font-family: var(--font-roboto);
+  width: 125px;
+  height: 33px;
+}
+.group-div {
+  position: absolute;
+  top: 958px;
+  left: 60px;
+  width: 403px;
+  height: 538.12px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inter);
+}
+.group-child12,
+.group-child13 {
+  position: absolute;
+  top: 0;
+  left: 5.5px;
+  border-radius: var(--br-11xl);
+  width: 392.17px;
+}
+.group-child12 {
+  background-color: var(--color-gainsboro);
+  height: 485.36px;
+}
+.group-child13 {
+  height: 204.74px;
+  object-fit: cover;
+}
+.almora,
+.almora-is-believed {
+  position: absolute;
+  top: 230.8px;
+  left: 0;
+  display: inline-block;
+  width: 393.34px;
+  height: 45.73px;
+}
+.almora-is-believed {
+  top: 288.74px;
+  left: 10.92px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 390.08px;
+  height: 222.26px;
+}
+.image-1-icon,
+.rectangle-parent1 {
+  position: absolute;
+  top: -4px;
+    left: -534px;
+  width: 401px;
+  height: 511px;
+}
+.image-1-icon {
+  top: 0;
+  left: -530px;
+  border-radius: var(--br-11xl);
+  width: 400px;
+  height: 221px;
+  object-fit: cover;
+}
+.group-parent1 {
+  position: absolute;
+  top: 958px;
+  left: 1068px;
+  width: 404px;
+  height: 531px;
+  font-size: var(--font-size-9xl);
+}
+.desktop-37 {
+  position: relative;
+  width: 100%;
+  height: 1535px;
+  overflow: hidden;
+  background-image: url(./public/desktop--37@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+a{
+  text-decoration: none;
+  color: var(--color-red);
+}

@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text: "Metal Mania";
+  --font-source-sans-3: "Source Sans 3";
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-gilroy: Gilroy;
+
+  /* font sizes */
+  --text-size: 32px;
+  --font-size-sm: 14px;
+  --font-size-7xl: 26px;
+  --font-size-lg: 18px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --b: #95e1d3;
+  --color-white: #fff;
+  --color-black: #000;
+  --poppins: #a0a0a0;
+  --g4: #efefef;
+  --color-gainsboro: #dfdfdf;
+  --p: #f38181;
+  --f-w: #fbf8f3;
+  --color-aliceblue: #eaf0f7;
+
+  /* Gaps */
+  --gap-28xl: 47px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-xl: 20px;
+  --padding-81xl: 100px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}

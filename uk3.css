@@ -1,0 +1,287 @@
+.trippingcom {
+  position: absolute;
+  top: 31px;
+  left: 95px;
+  font-size: var(--text-size);
+  font-family: var(--text);
+}
+.about,
+.blog,
+.contact,
+.home {
+  position: absolute;
+  top: 36px;
+  display: inline-block;
+  
+}
+.home {
+  left: 891px;
+  width: 89px;
+  cursor: pointer;
+}
+.about,
+.blog,
+.contact {
+  left: 1011px;
+  width: 60px;
+}
+.about,
+.contact {
+  left: 1102px;
+  width: 89px;
+}
+.contact {
+  left: 1222px;
+  width: 95px;
+  height: 30px;
+}
+.uttarakhand {
+  position: absolute;
+  top: 103px;
+  left: 520px;
+  font-size: 75px;
+  color: var(--color-gainsboro);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.backplace-icon {
+  position: absolute;
+  height: 3.33%;
+  top: 3.03%;
+  right: 94.31%;
+  bottom: 93.64%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.ind {
+  position: absolute;
+  top: 40px;
+  left: 1258px;
+}
+.icon-keyboard-arrow-down,
+.icon-person {
+  position: absolute;
+  height: 0.92%;
+  width: 1.11%;
+  top: 4.98%;
+  right: 8.13%;
+  bottom: 94.09%;
+  left: 90.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon-person {
+  height: 3.91%;
+  width: 2.78%;
+  top: 3.03%;
+  right: 3.4%;
+  bottom: 93.07%;
+  left: 93.82%;
+}
+.desktop-27-child {
+  top: 376.22px;
+  left: 528px;
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 511px;
+  transform: rotate(-0.17deg);
+  transform-origin: 0 0;
+}
+.desktop-27-child,
+.desktop-27-item,
+.group-child {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.desktop-27-item {
+  top: 372px;
+  left: 528px;
+  width: 401px;
+  height: 224px;
+  object-fit: cover;
+}
+.group-child {
+  top: 0;
+  left: 5.54px;
+  background-color: var(--color-gainsboro);
+  width: 395.1px;
+  height: 511px;
+}
+.explore-jim-corbett,
+.visitors-can-enjoy {
+  position: absolute;
+  top: 243px;
+  left: 0;
+  display: inline-block;
+  width: 396.28px;
+  height: 48.15px;
+}
+.visitors-can-enjoy {
+  top: 313px;
+  left: 8px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 393px;
+  height: 234px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 368px;
+  left: 982px;
+  width: 401px;
+  height: 547px;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+}
+.group-inner,
+.group-item,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 490.21px;
+}
+.group-inner,
+.rectangle-div {
+  height: 193.68px;
+}
+.rectangle-div {
+  height: 511px;
+}
+.rectangle-group,
+.rectangle-icon {
+  position: absolute;
+  top: 8px;
+  left: 6px;
+  width: 401px;
+  height: 511px;
+}
+.rectangle-icon {
+  top: 0;
+  left: 8px;
+  border-radius: var(--br-11xl);
+  height: 224px;
+  object-fit: cover;
+}
+.group-child2 {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 409px;
+  height: 30px;
+}
+.rafting-in-rishikesh,
+.rishikesh-river-rafting {
+  position: absolute;
+  top: 247px;
+  left: 11px;
+  font-weight: 800;
+  display: inline-block;
+  width: 392px;
+  height: 71px;
+}
+.rishikesh-river-rafting {
+  top: 317px;
+  left: 15px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  width: 387px;
+  height: 171px;
+}
+.group-parent {
+  position: absolute;
+  top: 364px;
+  left: 52px;
+  width: 409px;
+  height: 519px;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+}
+.for-all-humans {
+  top: 675px;
+  left: 531px;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  display: inline-block;
+  width: 400px;
+  height: 240px;
+}
+.for-all-humans,
+.ganga-aarti-at,
+.things-to-do {
+  position: absolute;
+  text-align: center;
+}
+.ganga-aarti-at {
+  top: 614px;
+  left: 547px;
+  font-size: var(--font-size-9xl);
+  font-weight: 800;
+  color: var(--color-black);
+}
+.things-to-do {
+  top: 255px;
+  left: -102px;
+  font-size: 40px;
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-gainsboro);
+  width: 684px;
+  height: 46px;
+}
+.backplace-icon1 {
+  position: absolute;
+  height: 4.63%;
+  
+  top: 92.77%;
+  right: 4.19%;
+  bottom: 2.6%;
+  left: 91.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  cursor: pointer;
+}
+.desktop-27-inner {
+  position: absolute;
+  top: 368px;
+  left: 988px;
+  border-radius: var(--br-11xl);
+  width: 395.1px;
+  height: 215.56px;
+  object-fit: cover;
+}
+.desktop-27 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(./public/desktop--16@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-red);
+  font-family: var(--font-roboto);
+}
+a{
+  text-decoration: none;
+  color: var(--color-red);
+}

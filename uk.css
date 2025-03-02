@@ -1,0 +1,252 @@
+.desktop-7-child,
+.desktop-7-item {
+  position: absolute;
+  top: 522px;
+  left: 125px;
+  border-radius: 10.73px;
+  background-color: var(--color-gray);
+  width: 278px;
+  height: 46px;
+}
+.desktop-7-item {
+  left: 442px;
+  width: 152px;
+}
+.trippingcom {
+  margin: 0;
+  width: 219px;
+  height: 72px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.about,
+.blog,
+.home {
+  position: absolute;
+  top: 36px;
+  display: inline-block;
+}
+.home {
+  left: 940px;
+  width: 89px;
+  cursor: pointer;
+}
+.about,
+.blog {
+  left: 1060px;
+  width: 60px;
+}
+.about {
+  left: 1170px;
+  width: 89px;
+}
+.contact,
+.explore-destination,
+.plan-trip {
+  position: absolute;
+  display: inline-block;
+  height: 30px;
+}
+.plan-trip {
+  top: 524px;
+  left: 450px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  width: 135px;
+  background-color: #8da4b5c9;
+  border-radius: 6px;
+  display: inline-block;
+  padding:10px 10px;
+  text-align: center;
+}
+.contact,
+.explore-destination {
+  top: 36px;
+  left: 1280px;
+  width: 95px;
+}
+.explore-destination {
+  top: 526px;
+  left: 146px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  width: 257px;
+  cursor: pointer;  background-color: #8da4b5c9;
+  border-radius: 6px;
+  display: inline-block;
+  padding:10px 10px;
+  text-align: center;
+}
+.uttarakhand {
+  position: absolute;
+  top: 98px;
+  left: 124px;
+  font-size: 75px;
+  color: var(--color-gainsboro);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.backplace-icon {
+  position: absolute;
+  height: 3.33%;
+
+  top: 3.03%;
+  right: 94.31%;
+  bottom: 93.64%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.span {
+  color: var(--color-plum);
+}
+.it-is-often-container {
+  position: absolute;
+  top: 186px;
+  left: 124px;
+  font-size: 36px;
+  display: inline-block;
+  width: 812px;
+  height: 268px;
+  filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  color: var(--color-gainsboro);
+}
+.ind {
+  position: absolute;
+  top: 40px;
+  left: 1258px;
+}
+.icon-keyboard-arrow-down,
+.icon-person {
+  position: absolute;
+  height: 0.92%;
+  width: 1.11%;
+  top: 4.98%;
+  right: 8.13%;
+  bottom: 94.09%;
+  left: 90.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon-person {
+  height: 3.91%;
+  width: 2.78%;
+  top: 3.03%;
+  right: 3.4%;
+  bottom: 93.07%;
+  left: 93.82%;
+}
+.desktop-7-inner {
+  position: absolute;
+  top: 865px;
+  left: 402px;
+  border-radius: 10px;
+  background-color: var(--color-gainsboro);
+  width: 680px;
+  height: 70px;
+}
+.check-in {
+  position: absolute;
+  top: 875px;
+  left: 500px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 94px;
+}
+.add-date {
+  top: 903px;
+  left: 506px;
+  font-size: var(--font-size-xl);
+  width: 82px;
+}
+.add-date,
+.add-date1,
+.check-out {
+  position: absolute;
+  color: var(--color-black);
+  display: inline-block;
+}
+.check-out {
+  top: 874px;
+  left: 770px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  width: 113px;
+}
+.add-date1 {
+  top: 902px;
+  left: 776px;
+  font-size: var(--font-size-xl);
+  width: 82px;
+}
+.icon-date-range,
+.icon-date-range1 {
+  position: absolute;
+  height: 4.3%;
+  width: 3.06%;
+  top: 85.35%;
+  right: 48.54%;
+  bottom: 10.35%;
+  left: 48.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icon-date-range1 {
+  right: 67.01%;
+  left: 29.93%;
+}
+.vector-icon {
+  top: 865px;
+  left: 668px;
+  height: 70px;
+}
+.desktop-7-child1,
+.icon-flight,
+.vector-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.desktop-7-child1 {
+  top: 865px;
+  left: calc(50% + 265px);
+  height: 70px;
+}
+.icon-flight {
+  height: 4.79%;
+  width: 3.4%;
+  top: 85.25%;
+  right: 26.46%;
+  bottom: 9.96%;
+  left: 70.14%;
+  max-height: 100%;
+}
+.desktop-7 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(./public/desktop--7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-red);
+  font-family: var(--font-roboto);
+}
